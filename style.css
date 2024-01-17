@@ -1,0 +1,13 @@
+h3{
+    font-size: 25px !important;
+}
+
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+body{
+    background: linear-gradient(blueviolet 0%, rgb(9, 198, 231) 100%);
+}
